@@ -88,18 +88,6 @@ Tras procesar todos los productos, el bot aplica filtros con **FiltradoProductos
 
 Los resultados se guardan en pestañas separadas del libro de salida.
 
-## Ejecución de la Automatización
-
-1. Actualizar `Data/Config.xlsx` con valores de tu entorno.
-2. Colocar `datos_buscar.xlsx` en la carpeta `Input/`.
-3. Abrir `Main.xaml` en UiPath Studio y hacer clic en **Run**.
-4. Ver resultados en `Output/output_datos_buscar.xlsx` y logs en `%LOCALAPPDATA%\UiPath\Logs`.
-
-## Pruebas
-
-* Ejecutar flujos en `Tests/` desde UiPath Test Explorer.
-* Verificar escenarios clave (zonas no disponibles, extracción de datos).
-
 ## Solución de Problemas y Excepciones
 
 | Paso       | Excepción                    | Acción                                           |
