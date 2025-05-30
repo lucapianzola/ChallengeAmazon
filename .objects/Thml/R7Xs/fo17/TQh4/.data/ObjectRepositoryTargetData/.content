@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5kdltUVk5kiT6gpExws6CA" Reference="2VbO5vxU_U6ouNFGDrXiNg/TQh4tOz2o0qPqFEj8pD65w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/HYDRO-CELL-aislamiento-inoxidable-calientes/dp/B0BX4HJX4J/ref=sr_1_1_sspa" CVScreenId="c7e0de25-2b6c-4412-b661-5652c55c4960" CvTextArea="1434, 315, 182, 13" CvTextArgument="Precio para miembro Prime" CvType="Text" DesignTimeRectangle="1435, 313, 180, 18" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='primeSavingsUpsellCaption_feature_div' tag='SPAN' /&gt;" Guid="5fcc9904-aee7-44e8-b234-96d37c8001fb" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com*' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="44f4e19144bbf11d264f439915a08b2a.png" xmlns="">0kLSrnmj3vEG9yjsn5JMuEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

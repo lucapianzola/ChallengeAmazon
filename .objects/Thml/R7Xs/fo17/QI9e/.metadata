@@ -1,0 +1,13 @@
+﻿{
+  "Name": "DIV contextualIngressPt…(1)",
+  "Type": "Element",
+  "Id": "QI9exU7U0kKf8f2Dl15atA",
+  "Reference": "2VbO5vxU_U6ouNFGDrXiNg/QI9exU7U0kKf8f2Dl15atA",
+  "ParentRef": "2VbO5vxU_U6ouNFGDrXiNg/fo170QxY_kuAPC-VwZ8e3g",
+  "Created": "2025-05-28T21:57:24.0371503Z",
+  "Updated": "2025-05-28T21:57:24.0371503Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

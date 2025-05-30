@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Detalles de envío y tar…(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "WrAkMIlpw0O5aOs39vbqwA",
+  "Reference": "2VbO5vxU_U6ouNFGDrXiNg/WrAkMIlpw0O5aOs39vbqwA",
+  "ParentRef": "2VbO5vxU_U6ouNFGDrXiNg/fo170QxY_kuAPC-VwZ8e3g",
+  "Created": "2025-05-27T23:48:36.2701809Z",
+  "Updated": "2025-05-27T23:48:36.2701809Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

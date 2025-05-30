@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ep_Y7FFOVkOY4ZRiRqHPEA" Reference="2VbO5vxU_U6ouNFGDrXiNg/wPGaVFDVo0a-61YRni5dKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/-/es/Adaptador-internacional-alimentaci%C3%B3n-inteligente-convertidor/dp/B07DQTL87X/ref=sr_1_1" CVScreenId="22bea825-3030-42b4-8083-07b7903c3aaa" DesignTimeRectangle="1435, 531, 203, 58" FullSelectorArgument="&lt;webctrl parentid='mir-layout-DELIVERY_BLOCK-slot-PRIMARY_DELIVERY_MESSAGE_LARGE' tag='SPAN' /&gt;" Guid="6e11f2d2-865f-44b1-9ca9-fbb9936b2e08" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com: Adaptador de viaje universal, adaptador de enchufe internacional Unidapt de 5.6A, alimentación inteligente 3.0A 4 USB 1 tipo C, adaptador de corriente cargador de viaje, convertidor de salida en todo : Herramientas y Mejoras del Hogar' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="22bea825-3030-42b4-8083-07b7903c3aaa" DesignTimeRectangle="1435, 654, 120, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='contextualIngressPtLink' tag='A' type='' class='a-link-normal' aaname='*' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="e106ea47-bda8-42c1-b6ca-98eb1b69b3c3" ImageBase64="" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5d0de22e594c9bae42d933fb90e391e0.png" xmlns="">05pvwxnXm9EOxi8koyAkO7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

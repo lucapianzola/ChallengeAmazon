@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gkFA4wjgw0iNfsTKFTlCIg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/customer-preferences/edit" CVScreenId="d5735ec2-0b6d-4705-9b03-fba0a985538b" CvElementArea="323, 154, 1039, 45" CvType="InputBox" DesignTimeRectangle="333, 158, 1023, 38" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='twotabsearchtextbox' tag='INPUT' type='text' class='nav-input nav-progressive-attribute' placeholder='Buscar en Amazon' aaname='Buscar en Amazon' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="bdf5a52d-1754-4083-beb1-8786669facc1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cambiar configuración de idioma y moneda' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="268, 157, 274, 35" ElementType="DropDown" FullSelectorArgument="&lt;webctrl id='searchDropdownBox' tag='SELECT' /&gt;" Guid="aede0757-af60-446e-8bba-bb0e1d3f98f1" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9958412cc83e2372636680aaaa4c20f0.png" xmlns="">0KaxC8jkfOEO7NCuWH2b-iQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

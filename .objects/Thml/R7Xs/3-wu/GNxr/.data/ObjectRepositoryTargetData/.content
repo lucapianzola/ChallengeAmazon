@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JZiQTHishkKDqOn2eZu0lw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/-/es/customer-preferences/edit" CVScreenId="aa60f37e-c232-4538-bf1c-85055e16e0ab" CvElementArea="247, 866, 129, 35" CvTextArea="261, 876, 102, 13" CvTextArgument="Guardar cambios" CvType="Button" DesignTimeRectangle="250, 869, 123, 30" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-labelledby='icp-save-button-announce' tag='INPUT' type='submit' /&gt;" Guid="4cecf6d4-4491-4173-825b-07c7d9d53879" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cambiar configuración de idioma y moneda' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="aa60f37e-c232-4538-bf1c-85055e16e0ab" CvElementArea="161, 866, 81, 36" CvTextArea="175, 876, 53, 13" CvTextArgument="Cancelar" CvType="Button" DesignTimeRectangle="164, 869, 75, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='icp-cancel-button' tag='A' type='' class='a-button-text' aaname='                     Cancelar                 ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Cancelar' /&gt;" Guid="3f8e5b12-7c11-4b5d-8727-52a781f6a360" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="775f2129a24ecab1fb82ee0aaef19197.png" xmlns="">0z6uwfy-BzkSp5_DP7uGQjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

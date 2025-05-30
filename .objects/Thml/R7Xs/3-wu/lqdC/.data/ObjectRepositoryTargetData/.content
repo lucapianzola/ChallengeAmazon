@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0lwPkzSvJUWuU10BJOakeQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com" CVScreenId="bdda56b8-52c5-4e2e-9f66-e6831a8f6285" DesignTimeRectangle="1432, 153, 43, 45" FullSelectorArgument="&lt;webctrl parentid='icp-nav-flyout' tag='SPAN' /&gt;" Guid="0725d81e-c1d5-4bfa-96c6-677eab33c3c7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com en espanol. Gasta menos. Sonríe más.' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="250a93dc4acdc824f79229a66c1514b9.png" xmlns="">03rCt_3zXaUm4WpDAztR_Wg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

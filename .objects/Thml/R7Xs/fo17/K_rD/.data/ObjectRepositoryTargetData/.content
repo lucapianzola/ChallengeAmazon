@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="U1nlzXRPOUm_gFFLuH5jJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/-/es/Adaptador-internacional-alimentaci%C3%B3n-inteligente-convertidor/dp/B07DQTL87X/ref=sr_1_1" DesignTimeRectangle="196, 393, 300, 156" FuzzySelectorArgument="&lt;webctrl class='a-fixed-left-grid-inner' type='' parentid='cm_cr_dp_d_rating_histogram' tag='DIV' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ea903487-963f-4c04-a2f4-f5d8a364b703" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com: Adaptador de viaje universal, adaptador de enchufe internacional Unidapt de 5.6A, alimentación inteligente 3.0A 4 USB 1 tipo C, adaptador de corriente cargador de viaje, convertidor de salida en todo : Herramientas y Mejoras del Hogar' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dcaf3ff9-9b63-4002-adf0-253cfd43c139" CvTextArea="195, 297, 244, 26" CvTextArgument="Opiniones de clientes" CvType="Text" DesignTimeRectangle="196, 293, 300, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='averageCustomerReviewsAnchor' tag='H2' type='' class='_cr-ratings-histogram_style_histogram-anchor__3YJGc' aaname='Opiniones de clientes' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Opiniones de clientes' /&gt;" Guid="65e8e423-2faf-4605-88f6-c903b55d8b90" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="23a8c59a08a1ba3430fa8bda758ab7e4.png" xmlns="">0Xbf15knvIEWOcq2yFEuaaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

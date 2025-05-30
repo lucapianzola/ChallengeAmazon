@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Opiniones de clientes",
+  "Type": "Element",
+  "Id": "K_rDndFeBUiFj_oDSD7-3g",
+  "Reference": "2VbO5vxU_U6ouNFGDrXiNg/K_rDndFeBUiFj_oDSD7-3g",
+  "ParentRef": "2VbO5vxU_U6ouNFGDrXiNg/fo170QxY_kuAPC-VwZ8e3g",
+  "Created": "2025-05-28T00:10:00.889876Z",
+  "Updated": "2025-05-28T00:10:00.889876Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

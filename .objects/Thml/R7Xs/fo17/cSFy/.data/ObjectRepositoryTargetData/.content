@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t7g0RoYls0qKlhcWS656mg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/-/es/Adaptador-internacional-alimentaci%C3%B3n-inteligente-convertidor/dp/B07DQTL87X/ref=sr_1_1" CVScreenId="6c34296a-712c-471b-bdaa-cf198041922a" CvElementArea="772, 699, 325, 34" CvType="InputBox" DesignTimeRectangle="774, 702, 323, 30" FullSelectorArgument="&lt;webctrl aria-role='radiogroup' tag='SPAN' /&gt;" Guid="e22bcd89-c3e3-4f72-9c6b-6fd31b28179c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com: Adaptador de viaje universal, adaptador de enchufe internacional Unidapt de 5.6A, alimentación inteligente 3.0A 4 USB 1 tipo C, adaptador de corriente cargador de viaje, convertidor de salida en todo : Herramientas y Mejoras del Hogar' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6c34296a-712c-471b-bdaa-cf198041922a" CvElementArea="1041, 756, 59, 35" CvTextArea="1056, 766, 29, 12" CvTextArgument="Listo" CvType="Button" DesignTimeRectangle="1044, 758, 53, 30" ElementType="Button" FuzzySelectorArgument="&lt;webctrl name='glowDoneButton' tag='BUTTON' type='button' class='a-button-text' aaname='Listo' matching:name='fuzzy' fuzzylevel:name='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Listo' /&gt;" Guid="ed58b01b-7bf5-420c-928f-e41d474ec0c5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="167461c15f6fa092ba53c2f2c22e5f4f.png" xmlns="">0ELEiF_b2E02Mw9CFJokpsg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

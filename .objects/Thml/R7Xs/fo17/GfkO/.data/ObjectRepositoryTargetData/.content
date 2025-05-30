@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HiigczUv1U2o50i-Yomm7g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/-/es/Adaptador-internacional-alimentaci%C3%B3n-inteligente-convertidor/dp/B07DQTL87X/ref=sr_1_1" DesignTimeRectangle="196, 481, 280, 156" ElementType="List" FullSelectorArgument="&lt;webctrl id='histogramTable' tag='UL' /&gt;" Guid="4fafa2d5-a1d1-4671-8311-d287cd0dd4ef" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com: Adaptador de viaje universal, adaptador de enchufe internacional Unidapt de 5.6A, alimentación inteligente 3.0A 4 USB 1 tipo C, adaptador de corriente cargador de viaje, convertidor de salida en todo : Herramientas y Mejoras del Hogar' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="6576c0bf2de9aa68665ef41ad3128cf3.png" xmlns="">0YMA6tkLI_USgUhYj0fReZg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

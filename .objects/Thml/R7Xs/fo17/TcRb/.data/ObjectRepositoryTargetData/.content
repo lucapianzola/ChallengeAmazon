@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="s2PY7EhHPkO5CxzXBxHfBA" Reference="2VbO5vxU_U6ouNFGDrXiNg/TcRbw1eo9USsNm_-QaxBNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/-/es/Adaptador-internacional-alimentaci%C3%B3n-inteligente-convertidor/dp/B07DQTL87X/ref=sr_1_1" DesignTimeRectangle="196, 557, 300, 312" FullSelectorArgument="&lt;webctrl id='cm_cr_dp_d_rating_histogram' tag='DIV' /&gt;" Guid="e833dae9-6c66-42e3-8d0a-aab0863e5964" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="658775ef9c4450bbc7e8afa4452f8e8c.png" xmlns="">0tiIaluh2kUap2RRxPK-qrw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

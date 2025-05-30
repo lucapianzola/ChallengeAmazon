@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Precio sin oferta",
+  "Type": "Element",
+  "Id": "ymzIfyuH6U-hK0_2eug3QA",
+  "Reference": "2VbO5vxU_U6ouNFGDrXiNg/ymzIfyuH6U-hK0_2eug3QA",
+  "ParentRef": "2VbO5vxU_U6ouNFGDrXiNg/fo170QxY_kuAPC-VwZ8e3g",
+  "Created": "2025-05-29T03:36:24.7530345Z",
+  "Updated": "2025-05-29T03:36:24.7530345Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

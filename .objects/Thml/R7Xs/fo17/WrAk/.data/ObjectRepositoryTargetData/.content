@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="D8EZO9GVQ0uxIINrMjP9Rw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/-/es/Adaptador-internacional-alimentaci%C3%B3n-inteligente-convertidor/dp/B07DQTL87X/ref=sr_1_1" CVScreenId="d5966f3e-ebe2-418a-9963-5dea73903d46" CvType="AnyWordGroup" DesignTimeRectangle="1548, 633, 72, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='a-popover-content-4' tag='TABLE' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;&lt;webctrl type='' tag='SPAN' class='a-size-base a-color-base' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="cf5be19f-66d8-4fbb-a0f7-34009d054cb5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com: Adaptador de viaje universal, adaptador de enchufe internacional Unidapt de 5.6A, alimentación inteligente 3.0A 4 USB 1 tipo C, adaptador de corriente cargador de viaje, convertidor de salida en todo : Herramientas y Mejoras del Hogar' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d5966f3e-ebe2-418a-9963-5dea73903d46" CvTextArea="1319, 564, 212, 16" CvTextArgument="Detalles de envío y tarifa" CvType="Text" DesignTimeRectangle="1320, 561, 300, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='a-popover-content-4' tag='H3' type='' class='' aaname='Detalles de envío y tarifa' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Detalles de envío y tarifa' /&gt;" Guid="5ccec37a-e142-45c0-8414-4926aa2c5d16" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="d5966f3e-ebe2-418a-9963-5dea73903d46" CvTextArea="1320, 634, 151, 14" CvTextArgument="Envío de AmazonGlobal" CvType="Text" DesignTimeRectangle="1320, 633, 151, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='a-popover-content-4' tag='TABLE' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;&lt;webctrl type='' tag='SPAN' class='a-size-base a-color-secondary' aaname=' Envío de AmazonGlobal ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Envío de AmazonGlobal' /&gt;" Guid="e2fa0fe6-da72-43fb-a1ad-be935126f5fe" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="354a99b923a5f94407392b834b78d7a2.png" xmlns="">01PlB5jb_okyh3O5iJRbPYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

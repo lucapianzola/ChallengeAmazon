@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FBov7D9arkyf0NroNoPAHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/reposapi%C3%A9s-ergon%C3%B3mica-reposabrazos-transpirable-reposacabezas/dp/B0CRB52DG6/ref=sr_1_1_sspa" CVScreenId="0e989f18-e60c-40a7-b4f0-46719b6173fb" CvElementArea="1739, 438, 22, 22" CvType="CloseButton" DesignTimeRectangle="1738, 438, 24, 24" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-label='Close' parentid='a-popover-5' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-label='Close' parentid='a-popover-5' tag='BUTTON' type='' class='a-button-close  a-declarative' aaname='' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="97cd6a8d-2943-4b61-a012-511296c6fa32" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com*' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="ee4f726d0549cb25a389d5f73778c36a.png" xmlns="">0sZPGtCgXFEKdnFsGmiZMDA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aExoreFizEC5R2_AKtD3tw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/-/es/customer-preferences/edit" CVScreenId="1c8c479f-0bdd-43a9-a6c8-c541ff6be486" CvTextArea="1460, 293, 47, 15" CvTextArgument="español" CvType="Text" DesignTimeRectangle="1461, 292, 46, 17" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='español' parentid='nav-flyout-icp' tag='SPAN' /&gt;" Guid="1cf23e86-e1ea-4544-869d-44ee01e6bd6e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cambiar configuración de idioma y moneda' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1c8c479f-0bdd-43a9-a6c8-c541ff6be486" CvTextArea="1518, 294, 16, 11" CvTextArgument="ES" CvType="Text" DesignTimeRectangle="1519, 292, 15, 17" ElementType="Text" FuzzyMatches="10000" FuzzySelectorArgument="&lt;webctrl aaname='ES' parentid='nav-flyout-icp' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='ES' /&gt;" Guid="222a7c93-be7a-439f-a6da-6a8e6fdc3aab" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2616dd1c6210bbd93e1ae4d8533a8991.png" xmlns="">055F62KfciUaiyKDxyHV-2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

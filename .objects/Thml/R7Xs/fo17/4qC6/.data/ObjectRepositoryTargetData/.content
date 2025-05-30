@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Dua8HUnqT0OmDZVYbK_SjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/Homemory-temporizador-duraci%C3%B3n-prendido-autom%C3%A1tico/dp/B01J5EEEQW/ref=sr_1_1_sspa" DesignTimeRectangle="883, 391, 167, 38" FullSelectorArgument="&lt;webctrl parentid='fod-cx-message-with-learn-more' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='fod-cx-message-with-learn-more' tag='SPAN' type='' class='' aaname='No hay ofertas destacadas disponibles' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='No hay ofertas destacadas disponibles' /&gt;" Guid="0c1ae3be-efa5-431c-81e9-e4c83a42c9d3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="596e36dbdd9b2b328eab83d461c7d03c.png" xmlns="">0dl156zYqtU2DgZCUOYKWPA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

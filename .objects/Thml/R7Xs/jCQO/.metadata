@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon.com Adaptador de viaje universa",
+  "Type": "Screen",
+  "Id": "jCQO2ypbQ0aPtG2sk58OXg",
+  "Reference": "2VbO5vxU_U6ouNFGDrXiNg/jCQO2ypbQ0aPtG2sk58OXg",
+  "ParentRef": "2VbO5vxU_U6ouNFGDrXiNg/R7Xs5kP0C0SW5qGc3trQ6Q",
+  "Created": "2025-05-28T00:08:18.5929859Z",
+  "Updated": "2025-05-28T00:08:18.5929859Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

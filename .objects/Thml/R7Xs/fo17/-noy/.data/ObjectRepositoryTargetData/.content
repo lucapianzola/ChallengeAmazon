@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="loUc-sLzhkKqY0wIUN7C1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/-/es/Adaptador-internacional-alimentaci%C3%B3n-inteligente-convertidor/dp/B07DQTL87X/ref=sr_1_1" CVScreenId="335027c5-628b-45ae-9643-7b5b4be2439c" CvElementArea="1433, 566, 211, 36" CvTextArea="1470, 577, 134, 15" CvTextArgument="Ver todas las opciones" CvType="Button" DesignTimeRectangle="1436, 569, 204, 30" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='buybox-see-all-buying-choices' tag='A' /&gt;" Guid="6ee57afc-0c63-4407-bcdc-2bc6372ac1a9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com: Adaptador de viaje universal, adaptador de enchufe internacional Unidapt de 5.6A, alimentación inteligente 3.0A 4 USB 1 tipo C, adaptador de corriente cargador de viaje, convertidor de salida en todo : Herramientas y Mejoras del Hogar' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="3e34b17d90af5297682ca5f0a1d76d25.png" xmlns="">0wW_yHBQ9KkGvAbKzV9Iu6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

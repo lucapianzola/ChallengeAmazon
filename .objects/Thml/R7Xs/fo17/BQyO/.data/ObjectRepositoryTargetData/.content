@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="M-Zvbq-j2kCZfTrSJlKkEA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/s" CVScreenId="b8c41d0e-bcbf-4d68-8d16-cfc2b3572409" CvTextArea="341, 369, 110, 14" CvTextArgument="Selección general i" CvType="Text" DesignTimeRectangle="332, 363, 299, 280" FullSelectorArgument="&lt;webctrl class='puisg-col-inner' tag='DIV' /&gt;" Guid="ae087eed-dea9-48ff-bc35-adff76efc2d0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com : Unidapt Adaptador de enchufe de viaje' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b8c41d0e-bcbf-4d68-8d16-cfc2b3572409" CvTextArea="334, 341, 447, 16" CvTextArgument="Consulta cada página del producto para ver otras opciones de compra." CvType="Text" DesignTimeRectangle="335, 339, 445, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' isleaf='1' parentid='search' tag='SPAN' class='a-size-base a-color-secondary a-text-normal' aaname='Consulta cada página del producto para ver otras opciones de compra.' matching:isleaf='fuzzy' fuzzylevel:isleaf='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Consulta cada página del producto para ver otras opciones de compra.' /&gt;" Guid="034f47bd-6e98-4d40-a004-246cbf1dd82e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="17007fd5e84bf4658b323e9d371a7c51.png" xmlns="">0BgbKFVD_4kiCreFbVtzDKw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

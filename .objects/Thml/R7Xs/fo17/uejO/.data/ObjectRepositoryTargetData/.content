@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="woX6mlxmqkKmoXoRhMEEJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/s" CVScreenId="f66450d3-e3c7-48c8-b024-ea201818e4b5" CvTextArea="341, 318, 110, 13" CvTextArgument="Selección general i" CvType="Text" DesignTimeRectangle="332, 311, 299, 280" FullSelectorArgument="&lt;webctrl class='puisg-col-inner' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='puisg-col-inner' tag='DIV' type='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Selección general' /&gt;" Guid="e8d147e2-670a-4e60-9c6d-149d2c032c41" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="cafc9ebb5c1c72493b69b2176a5fd884.png" xmlns="">0zb562WrLs0WFcTCHQv_Rfg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

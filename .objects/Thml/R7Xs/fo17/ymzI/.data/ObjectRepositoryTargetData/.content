@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6ASO-a6jVUGvoWJR_-VmhQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/HYDRO-CELL-aislamiento-inoxidable-calientes/dp/B0BX4HJX4J/ref=sr_1_1_sspa" CVScreenId="0b0142df-977e-496f-b0af-e219aec67a76" CvElementArea="1621, 689, 22, 22" CvType="RadioButton" DesignTimeRectangle="1624, 691, 17, 17" FullSelectorArgument="&lt;webctrl parentid='newAccordionRow_1' tag='I' /&gt;" Guid="5249247b-17eb-4632-bc3e-18c91e122d40" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com*' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0b0142df-977e-496f-b0af-e219aec67a76" CvTextArea="1434, 692, 109, 13" CvTextArgument="Precio sin oferta" CvType="Text" DesignTimeRectangle="1435, 690, 108, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='newAccordionCaption_feature_div' tag='SPAN' type='' class='a-text-bold' aaname=' Precio sin oferta ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Precio sin oferta' /&gt;" Guid="e3c888a1-bdba-419c-91e8-deeab6ef75a6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="05adebd89bc84ece039921ccc3476c95.png" xmlns="">0VZmTLJZGdEymeMMGoykq1g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

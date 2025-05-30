@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-PjcPrEJ0kSOrvsd39UdcA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/Ventilador-ventilador-enfriamiento-velocidades-recargable/dp/B0F2J6W9FN/ref=sr_1_1_sspa" DesignTimeRectangle="8, 95, 1839, 9831" FullSelectorArgument="&lt;webctrl id='a-page' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='a-page' tag='DIV' type='' class='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Menú de métodos abreviados&amp;#xA;Saltar a&amp;#xA;Contenido principal&amp;#xA;Acerca de este artículo&amp;#xA;Opciones de compra' /&gt;" Guid="f289d441-edba-4262-a6af-14eeedfba79f" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="4ddefd6bbf4f8f64be53a443aa1041e1.png" xmlns="">0xTA7aRTL2E-yx8cm8-6xow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TakeScreenshot</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
