@@ -1,12 +1,6 @@
 
 # Automatización ChallengeAmazon
-
-**obtencion de precios automatizada de productos de Amazon con UiPath y Robotic Enterprise Framework (REFramework)**
-
----
-
-## Objetivo de Negocio
-El objetivo principal de esta solución RPA asistida es **obtener precios automáticamente productos en Amazon** para zonas de envío específicas, extrayendo precio, costo de entrega, fecha estimada de llegada y valoraciones de clientes. Esto reduce el esfuerzo manual, asegura consistencia de datos y permite comparar rápidamente ofertas por región.
+**obtener precios automáticamente productos en Amazon** para zonas de envío específicas, extrayendo precio, costo de entrega, fecha estimada de llegada y valoraciones de clientes. Esto reduce el esfuerzo manual, asegura consistencia de datos y permite comparar rápidamente ofertas por región.
 
 ## Descripción del Proyecto
 Esta solución está desarrollada en **UiPath Studio** usando **REFramework** y contempla componentes personalizados:
