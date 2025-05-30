@@ -1,4 +1,4 @@
-````markdown
+
 # Automatización ChallengeAmazon
 
 **obtencion de precios automatizada de productos de Amazon con UiPath y Robotic Enterprise Framework (REFramework)**
@@ -13,8 +13,6 @@ Esta solución está desarrollada en **UiPath Studio** usando **REFramework** y 
 - **FormatInput**: Normaliza los datos de entrada desde Excel/PDF.
 - **InitAmazonWeb**: Inicializa la sesión en Amazon, ajusta idioma y moneda.
 - **FiltradoProductos**: Aplica filtros de precio, fecha y rating tras la extracción.
-
-````
 
 ## Configuración Detallada
 
