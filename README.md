@@ -107,5 +107,5 @@ Los resultados se guardan en pestañas separadas del libro de salida.
 | Paso       | Excepción                    | Acción                                           |
 | ---------- | ---------------------------- | ------------------------------------------------ |
 | 2          | Producto no disponible       | Registrar datos con `-`                          |
-| 3.1        | Zona de entrega no soportada | Capturar mensaje; marcar BusinessRuleException   |
+| 3.1        | Zona de entrega no soportada | marcar BusinessRuleException                     |
 | Cualquiera | Error de sistema inesperado  | Enviar captura y notificación por correo         |
