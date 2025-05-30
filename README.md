@@ -62,10 +62,10 @@ ChallengeAmazon/
 │  ├─ SetTransactionStatus.xaml
 │  └─ CloseAllApplications.xaml
 ├─ Input/
-│  └─ datos_buscar.xlsx      # Generado desde PDF fuente
+│  └─ -     # Datos
 ├─ Output/
-│  └─ output_datos_buscar.xlsx # Resultados con hojas filtradas
-├─ Tests/                    # Pruebas unitarias de workflows
+│  
+├─ Tests/                    # Pruebas
 ├─ Main.xaml                 # Punto de entrada REFramework
 └─ project.json              # Descriptor del proyecto UiPath
 ```
